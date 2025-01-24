@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "high",
+=======
+  "name": "netflix",
+>>>>>>> 4fd174d1c5bc9cb8467f4bcc0b94c4ba564b85c1
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +14,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "axios": "^1.7.9",
+>>>>>>> 4fd174d1c5bc9cb8467f4bcc0b94c4ba564b85c1
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
