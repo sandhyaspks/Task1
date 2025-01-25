@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "auth",
+=======
+<<<<<<< HEAD
+  "name": "high",
+=======
+  "name": "netflix",
+>>>>>>> 4fd174d1c5bc9cb8467f4bcc0b94c4ba564b85c1
+>>>>>>> 46304a03dc1ba6a767c32f7f1e503b1c4ff9d640
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +18,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.3"
+=======
+<<<<<<< HEAD
+=======
+    "axios": "^1.7.9",
+>>>>>>> 4fd174d1c5bc9cb8467f4bcc0b94c4ba564b85c1
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+>>>>>>> 46304a03dc1ba6a767c32f7f1e503b1c4ff9d640
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",

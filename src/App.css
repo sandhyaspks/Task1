@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   font-family: Arial, sans-serif;
   padding: 20px;
@@ -40,3 +41,82 @@ form input {
   padding: 8px;
   width: 200px;
 }
+=======
+<<<<<<< HEAD
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+=======
+.App {
+  text-align: center;
+  background-color: #141414;
+  color: white;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 20px;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movie-card {
+  margin: 10px;
+  width: 200px;
+}
+
+.movie-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.movie-card h3 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 1.2em;
+}
+>>>>>>> 4fd174d1c5bc9cb8467f4bcc0b94c4ba564b85c1
+>>>>>>> 46304a03dc1ba6a767c32f7f1e503b1c4ff9d640
